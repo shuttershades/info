@@ -1,0 +1,5 @@
+WANT TO REPLACE YOUR IMAGES (LOGO, LOADERS, BACKGROUNDS)???
+Just replace the image you want with another with same name in the img folder.
+Try to replace default images for others with close resolution.
+
+FOR OTHER CHANGES READ THE COMMENTS IN THE PHP FILES
